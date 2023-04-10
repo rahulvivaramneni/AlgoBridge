@@ -1,6 +1,8 @@
 
 <h2 align="center">AlgoBridge</h2>
 
+## Demo Video
+https://clipchamp.com/watch/e1S9ZrY1B93
 
 ### Architecture
 
@@ -45,6 +47,3 @@ cd oracle
 npm i
 node oracle.js
 ```
-
-
-<p align="center"> Made with ❤️ and 💻</p>
